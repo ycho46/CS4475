@@ -15,3 +15,4 @@ the image and convert as the program terminates.
 The captured and converted images will be saved in the same directory.
 
 Lastly, "CS4475FINAL.key" file is the keynote of my final project.
+The PDF is the submiited final report for the project
