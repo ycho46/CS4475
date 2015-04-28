@@ -10,4 +10,8 @@ You can run this by downloading the repository and running the capture.py file b
 
 "python capture.py haarcascade_frontalface_default.xml"
 
+To capture the screen you can hit "ctrl + c" on the command line to terminate the program and it will capture
+the image and convert as the program terminates.
+The captured and converted images will be saved in the same directory.
+
 Lastly, "CS4475FINAL.key" file is the keynote of my final project.
