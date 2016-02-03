@@ -3,7 +3,7 @@ CS 4475 Computational Photography
 
 This is my final project for CS 4475 Computational Photography.
 The project captures user's portrait image from the webcam using face detection.
-It automatically converts the captured images into a cartoonized image.
+It automatically converts the captured image into a cartoonized image.
 As the image is converted it will be saved for each step in the pipeline of the converting process.
 
 You can run this by downloading the repository and running the capture.py file by using the command
